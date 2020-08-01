@@ -13,10 +13,10 @@ Non-fiction, self-improvement.
 Anything and everything.
 Live to eat.
 In no particular order:
--sushi
--K-BBQ
--pizza
--fried chicken
--banana
+- sushi
+- K-BBQ
+- pizza
+- fried chicken
+- banana
 
 Here's a link to [Wikipedia](https://wikipedia.org)
